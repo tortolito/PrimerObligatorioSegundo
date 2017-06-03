@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SitioAdministracion", "SitioAdministracion\", "{A3F6722A-1F1A-4A8C-95B6-71F320A58804}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/SitioAdministracion"
+		Debug.AspNetCompiler.PhysicalPath = "SitioAdministracion\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SitioAdministracion\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SitioAdministracion"
+		Release.AspNetCompiler.PhysicalPath = "SitioAdministracion\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SitioAdministracion\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "22301"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesCompartidas", "EntidadesCompartidas\EntidadesCompartidas.csproj", "{EA08BBFC-C605-41A8-ADDA-1544A572AEF2}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SitioConsultas", "SitioConsultas\", "{0102DBA6-86AD-4758-8B97-5410671EC763}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/SitioConsultas"
+		Debug.AspNetCompiler.PhysicalPath = "SitioConsultas\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SitioConsultas\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SitioConsultas"
+		Release.AspNetCompiler.PhysicalPath = "SitioConsultas\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SitioConsultas\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "22303"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{04B04D65-9713-46EB-8DE6-B1F2865FE5EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F6722A-1F1A-4A8C-95B6-71F320A58804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F6722A-1F1A-4A8C-95B6-71F320A58804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F6722A-1F1A-4A8C-95B6-71F320A58804}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F6722A-1F1A-4A8C-95B6-71F320A58804}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{EA08BBFC-C605-41A8-ADDA-1544A572AEF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA08BBFC-C605-41A8-ADDA-1544A572AEF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA08BBFC-C605-41A8-ADDA-1544A572AEF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA08BBFC-C605-41A8-ADDA-1544A572AEF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0102DBA6-86AD-4758-8B97-5410671EC763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0102DBA6-86AD-4758-8B97-5410671EC763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0102DBA6-86AD-4758-8B97-5410671EC763}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{0102DBA6-86AD-4758-8B97-5410671EC763}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{04B04D65-9713-46EB-8DE6-B1F2865FE5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B04D65-9713-46EB-8DE6-B1F2865FE5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B04D65-9713-46EB-8DE6-B1F2865FE5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B04D65-9713-46EB-8DE6-B1F2865FE5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

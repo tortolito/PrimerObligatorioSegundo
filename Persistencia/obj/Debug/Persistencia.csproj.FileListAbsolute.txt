@@ -1,0 +1,4 @@
+C:\Users\Damián Viera\Desktop\Obligatorio2017\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Damián Viera\Desktop\Obligatorio2017\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Damián Viera\Desktop\Obligatorio2017\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Damián Viera\Desktop\Obligatorio2017\Persistencia\obj\Debug\Persistencia.pdb
